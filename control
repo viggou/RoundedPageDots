@@ -1,0 +1,10 @@
+Package: com.yaypixxo.roundedpagedots
+Name: RoundedPageDots
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: square with rounded corners page dots lol
+Depiction: http://yaypixxo.com/depictions?p=com.yaypixxo.roundedpagedots
+Maintainer: YaYPIXXO <viggo@lekdorf.com>
+Author: YaYPIXXO <viggo@lekdorf.com>
+Section: Tweaks
